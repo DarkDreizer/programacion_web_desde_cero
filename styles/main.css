@@ -1,0 +1,16 @@
+p {
+  color: blueviolet;
+}
+
+.main-text {
+  color: green;
+}
+
+#one,
+#second {
+  color: brown;
+}
+
+#one:first-child {
+  color: pink;
+}
